@@ -1,3 +1,5 @@
+Thanks to the original [obs-websocket-dotnet](https://github.com/Palakis/obs-websocket-dotnet), I am looking to port this to .net core
+
 # obs-websocket-dotnet
 A .NET library wrote in C# to communicate with an obs-websocket server. Depends on [websocket-sharp](https://github.com/sta/websocket-sharp) and [JSON.Net](http://www.newtonsoft.com/json).
 
